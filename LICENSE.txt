@@ -1,18 +1,3 @@
-# CBFP-Exponent-Box-Encoding
-This repository accompanies the research project titled "Complex Block Floating-Point Format with Box Encoding in Communication Systems".
-
-Description: This project simulates the behavior of proposed complex block floating-point format in MATLAB environment. The proposed complex block floating-point format has reduced wordlength requirement compared to the complex IEEE-754 block representation. Similarly, the complex block arithmetic for the proposed representation has reduced computational complexity and memory requirement.
-
-Installation: MATLAB software.
-
-Usage: The proposed complex block floating-point representation is simulated as a numeric class. The current implementation assumes single-precision floating-point format (32-bit) as the starting point. Add path to MATLAB/lib/. See ComplexBlock32.m.
-
-Contributing: Extension to 16-bit floating-point precision. Implement all other common arithmetic operations.
-
-Credits:
-
-License:
-
 MIT License
 
 Copyright (c) 2018 Yeong Foong Choo
